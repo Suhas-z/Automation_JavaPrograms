@@ -6,6 +6,12 @@ public class TestStrings {
         //wordEnd();
         //palindrome();
         primeNumber();
+
+        String NAME = "Suhass";
+        String name = "Subbu";
+        String nAMe = "Blacky";
+
+        System.out.println(NAME +','+name+','+nAMe);
     }
 
     private static void repeatCharInAString() {
